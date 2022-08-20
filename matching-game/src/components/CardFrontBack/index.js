@@ -9,7 +9,7 @@ function CardFrontBack() {
     const $cardFrontBack = $origin.closest('.card-front-back');
     console.log($cardFrontBack);
 
-    $cardFrontBack.classList.toggle('-active')
+    $cardFrontBack.classList.toggle('-active');
 
   }
     return /*html*/ `
