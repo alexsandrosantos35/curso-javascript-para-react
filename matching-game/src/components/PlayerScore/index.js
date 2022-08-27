@@ -1,4 +1,4 @@
-import "./style.css";
+import './style.css';
 
 function PlayerScore(points = 0) {
 return /*html*/ ` 
